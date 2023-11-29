@@ -266,7 +266,7 @@ __pycache__/
 *.pyc
 
 # CMake build directory
-build
+build/
 
 # Cppcheck build directory
 analysis-cppcheck-build-dir
