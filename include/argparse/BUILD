@@ -1,5 +1,5 @@
 cc_library(
     name = "argparse",
-    hdrs = ["argparse.h"],
+    hdrs = ["argparse.hpp"],
     visibility = ["//visibility:public"],
 )
